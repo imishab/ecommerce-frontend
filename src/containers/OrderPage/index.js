@@ -27,7 +27,7 @@ const OrderPage = (props) => {
 
   return (
     <Layout>
-      <div style={{ maxWidth: "1160px", margin: "5px auto" }}>
+      <div style={{ maxWidth: "1159px", margin: "5px auto" }}>
         <Breed
           breed={[
             { name: "Home", href: "/" },
